@@ -3,40 +3,23 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=550&amp;EndingColumnNumber=9&amp;EndingLineNumber=29&amp;StartingColumnNumber=5&amp;StartingLineNumber=29&amp;Timestamp=655435502.529548"
+         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=99&amp;CharacterRangeLoc=1230&amp;EndingColumnNumber=1&amp;EndingLineNumber=70&amp;StartingColumnNumber=4&amp;StartingLineNumber=66&amp;Timestamp=655510101.922653"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=851&amp;EndingColumnNumber=16&amp;EndingLineNumber=42&amp;StartingColumnNumber=9&amp;StartingLineNumber=42&amp;Timestamp=655435502.529635"
-         lockedSize = "{677, 155}"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=206&amp;CharacterRangeLoc=879&amp;EndingColumnNumber=4&amp;EndingLineNumber=53&amp;StartingColumnNumber=0&amp;StartingLineNumber=44&amp;Timestamp=655435502.5296789"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=342&amp;EndingColumnNumber=8&amp;EndingLineNumber=26&amp;StartingColumnNumber=5&amp;StartingLineNumber=26&amp;Timestamp=655435502.5297149"
-         lockedSize = "{872, 349}"
-         selectedRepresentationIndex = "0"
-         shouldTrackSuperviewWidth = "NO">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=910&amp;EndingColumnNumber=23&amp;EndingLineNumber=46&amp;StartingColumnNumber=13&amp;StartingLineNumber=46&amp;Timestamp=655435502.529754"
+         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=96&amp;CharacterRangeLoc=1231&amp;EndingColumnNumber=15&amp;EndingLineNumber=69&amp;StartingColumnNumber=0&amp;StartingLineNumber=67&amp;Timestamp=655510101.92273"
          lockedSize = "{622, 276}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=17&amp;CharacterRangeLoc=997&amp;EndingColumnNumber=0&amp;EndingLineNumber=49&amp;StartingColumnNumber=9&amp;StartingLineNumber=48&amp;Timestamp=655435502.52979"
+         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=96&amp;CharacterRangeLoc=1231&amp;EndingColumnNumber=15&amp;EndingLineNumber=69&amp;StartingColumnNumber=0&amp;StartingLineNumber=67&amp;Timestamp=655510101.92278"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=625&amp;EndingColumnNumber=0&amp;EndingLineNumber=31&amp;StartingColumnNumber=0&amp;StartingLineNumber=30&amp;Timestamp=655435502.529822"
+         documentLocation = "file:///Users/travintosh/Documents/GitHub/eventbriteAPI/eventbriteAPI.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=963&amp;EndingColumnNumber=0&amp;EndingLineNumber=52&amp;StartingColumnNumber=79&amp;StartingLineNumber=51&amp;Timestamp=655510101.922825"
          lockedSize = "{392, 71}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
