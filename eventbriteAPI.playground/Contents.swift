@@ -24,9 +24,9 @@ struct Events: Codable {
  import PlaygroundSupport
  PlaygroundPage.current.needsIndefiniteExecution = true
 
-let url = URL(string: "https://www.eventbriteapi.com/v3/venues/33781047/events/?token=A566EUCLJFKWQ5JPQFO4")!
+let url = URL(string: "https://www.eventbriteapi.com/v3/venues/33781047/events/?token=YOURTOKEN")!
 var request = URLRequest(url: url)
-request.addValue("Bearer A566EUCLJFKWQ5JPQFO4", forHTTPHeaderField: "Authorization")
+request.addValue("Bearer YOURTOKEN", forHTTPHeaderField: "Authorization")
 let task = URLSession.shared.dataTask(with: request) { data, response, error in
 
     
